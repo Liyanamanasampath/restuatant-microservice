@@ -1,3 +1,4 @@
 packages:
   - 'product-service'
   - 'common-service'
+  - 'mongoose-client'

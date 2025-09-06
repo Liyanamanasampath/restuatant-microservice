@@ -10,7 +10,8 @@
   },
   "keywords": [],
   "dependencies": {
-    "common-service": "workspace:*"
+    "common-service": "workspace:*",
+    "mongoose-client": "workspace:*"
   },
   "author": "",
   "license": "ISC",
