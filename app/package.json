@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {},
   "workspaces": [
-    "product-service",
-    "common-service"
+    "common/*",
+    "services/*"
   ],
   "keywords": [],
   "author": "",
